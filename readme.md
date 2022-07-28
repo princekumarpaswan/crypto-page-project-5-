@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the crypto-Page (project-5)](https://crypto-page.netlify.app/)
+## [Link to the crypto-Page (project-5)](https://genuine-concha-bb6e96.netlify.app/)
 
 
 ![Completed Website](crypto.png)
